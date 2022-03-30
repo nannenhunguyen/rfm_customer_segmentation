@@ -1,6 +1,6 @@
 # Segment customers based on RFM model using K-Means
 
-**1. Business Request: **
+**1. Business Request:**
 
 Business plan to launch one Free trial subcription program. The target of this program is after using free trial, customers will buy a paid subscription package. 
 Business concerns which type of customer that will be potential for the target of the program. 
