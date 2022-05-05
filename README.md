@@ -7,7 +7,9 @@ Business concerns which type of customer that will be potential for the target o
 
 **2. Main Idea:**
 
-The potential customers type should be a loyal and valid customers (high frequency and high engagement), and never experience the subscription before or a churned member. 
+Segment customer based on RFM model. After that, running testing on half of customers of each score, then build the predict model for other customers based on the testing data. 
+
+
 
 Using the RFM model to define the target customer segmentation. 
 
